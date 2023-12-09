@@ -133,12 +133,79 @@
       <td>Low</td>
     </tr>
     <tr>
-      <td rowspan="4">7</td>
-      <td rowspan="4"></td>
-      <td rowspan="4"></td>
+      <td rowspan="3">7</td>
+      <td rowspan="3">Tasks</td>
+      <td rowspan="3">Check next 7 days screen</td>
+    </tr>
+    <tr>
+      <td>Check adding tasks</td>
+      <td>The user should be able to add tasks and schedule them.</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Check marking tasks as done</td>
+      <td>The user should be able to mark tasks as done.</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td rowspan="4">8</td>
+      <td rowspan="4">Next 7 Days</td>
+      <td rowspan="4">Check the tasks management</td>
+    </tr>
+    <tr>
+      <td>Check user access next 7 days screen.</td>
+      <td>The user can see all tasks through the whole next 7 days starting from current day.</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Check user can manage next 7 days screen.</td>
+      <td>The user can manage and move tasks through the next 7 days.</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Check the next 7 days screen are updated each day.</td>
+      <td>The days sequence is updated each day so the list start from the current day.</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td rowspan="5">9</td>
+      <td rowspan="5">Settings</td>
+      <td rowspan="5">Check the account settings screen</td>
+    </tr>
+    <tr>
+      <td>Check language.</td>
+      <td>The user should be able to change account language and reflects on all screens.</td>
+      <td>Low</td>
+    </tr>
+    <tr>
+      <td>Check Profile.</td>
+      <td>The user should be able to access his profile info such as email and name and update them.</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td>Check Reset Password.</td>
+      <td>The user should be able to reset his password.</td>
+      <td>High</td>
+    </tr>
+    <tr>
+      <td>Check Delete Account.</td>
+      <td>The user should be able to delete his account.</td>
+      <td>Medium</td>
+    </tr>
+    <tr>
+      <td rowspan="5">10</td>
+      <td rowspan="5">Notifications</td>
+      <td rowspan="5">Check User Notifications</td>
+    </tr>
+    <tr>
+      <td>Check task notification.</td>
+      <td>When a task schedule gets close a notification should be sent to the user .</td>
+      <td>High</td>
     </tr>
   </tbody>
 </table> 
+
+
 
 # Bug Reporting 
 
@@ -249,3 +316,14 @@
     </tr>
   </tbody>
 </table>
+
+
+# UX Issue
+- Having numerous lists and boards can clutter the home screen, affecting user experience. Implementing a feature to navigate easily among these lists or boards, allowing filtering and search options, would greatly enhance usability despite their abundance.
+
+
+
+
+
+
+
