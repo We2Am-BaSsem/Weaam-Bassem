@@ -163,7 +163,9 @@
       <td>
         <p> 1- Open the app <br> 2- Click on E-mail button <br> 3- Enter un-registered email <br> 4- Press Enter <br> 5- Add user name <br> 6- Add password <br> 7- Press on Create account button </p>
       </td>
-      <td></td>
+      <td>
+          <a href="./media/user cant register.webm"  target="_blank">
+      </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
       </td>
       <td>Wi-Fi and mobile data connections</td>
@@ -176,7 +178,9 @@
       <td>
         <p> 1- open the app <br> 2- login to the dashboard <br> 3- click on the Home button </p>
       </td>
-      <td></td>
+      <td>
+          <a href="./media/Misaligned Try It Free Button in home.jpg" target="_blank"> attachment</a>
+      </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
       </td>
       <td>Wi-Fi and mobile data connections</td>
@@ -190,7 +194,10 @@
         <p> 1- Open the app <br> 2- Login to the dashboard <br> 3- Access the app settings or profile section to change the language setting to Arabic (or any language other than English). <br> 4- Open home screen <br> 4- Select Next 7 days <br>
         </p>
       </td>
-      <td></td>
+      <td>
+          <a href="./media/Incomplete Language Translation for Non-English Languages.mp4"  target="_blank">
+          <a href="./media/Incomplete Language Translation for Non-English Languages.png"  target="_blank">
+      </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
       </td>
       <td>Wi-Fi and mobile data connections</td>
@@ -207,9 +214,10 @@
             3- click on the Home button <br>
             4- Navigate to a task list that does not contain any tasks.
       </td>
-      <td></td>
-            <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
-        </td>
+      <td>
+          <a href="./media/Non-Clickable + Icon in Empty Task List Message.mp4"  target="_blank">
+      </td>
+      <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br></td>
       <td>Wi-Fi and mobile data connections</td>
       <td>Low</td>
       <td>Medium</td>
@@ -228,7 +236,9 @@
             4- Open My Day screen <br>
         </p>
       </td>
-      <td></td>
+      <td>
+          <a href="./media/New Day&apos;s Tasks Not Appearing on My Day Screen.mp4"  target="_blank">
+      </td>
             <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
         </td>
       <td>Wi-Fi and mobile data connections</td>
