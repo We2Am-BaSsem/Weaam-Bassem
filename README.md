@@ -164,7 +164,7 @@
         <p> 1- Open the app <br> 2- Click on E-mail button <br> 3- Enter un-registered email <br> 4- Press Enter <br> 5- Add user name <br> 6- Add password <br> 7- Press on Create account button </p>
       </td>
       <td>
-          <a href="./media/user cant register.webm"  target="_blank">
+          <a href="./media/user cant register.webm"  target="_blank"> attachment </a>
       </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
       </td>
@@ -195,8 +195,8 @@
         </p>
       </td>
       <td>
-          <a href="./media/Incomplete Language Translation for Non-English Languages.mp4"  target="_blank">
-          <a href="./media/Incomplete Language Translation for Non-English Languages.png"  target="_blank">
+          <a href="./media/Incomplete Language Translation for Non-English Languages.mp4"  target="_blank">attachment </a>
+          <a href="./media/Incomplete Language Translation for Non-English Languages.png"  target="_blank">attachment </a>
       </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
       </td>
@@ -215,7 +215,7 @@
             4- Navigate to a task list that does not contain any tasks.
       </td>
       <td>
-          <a href="./media/Non-Clickable + Icon in Empty Task List Message.mp4"  target="_blank">
+          <a href="./media/Non-Clickable + Icon in Empty Task List Message.mp4"  target="_blank">attachment </a>
       </td>
       <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br></td>
       <td>Wi-Fi and mobile data connections</td>
@@ -237,7 +237,7 @@
         </p>
       </td>
       <td>
-          <a href="./media/New Day&apos;s Tasks Not Appearing on My Day Screen.mp4"  target="_blank">
+          <a href="./media/New Day&apos;s Tasks Not Appearing on My Day Screen.mp4"  target="_blank">attachment </a>
       </td>
             <td>Xiaomi Redmi 9A, Android 10, 6.53" 720x1600 pixels <br>
         </td>
